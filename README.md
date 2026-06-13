@@ -29,7 +29,8 @@ Here is a track record of all the projects built so far:
 | # | Project Name | Description | Difficulty |
 |---|--------------|-------------|------------|
 | 1 | **[CLI Task Manager](./Project_1/)** | A command-line to-do list manager using `colorama` and `json`. | ⭐ Beginner |
-| 2 | *TBD* | *Coming soon!* | |
+| 1 | **[Password Generator & Vault](./Project_2/)** | A password generator with a vault to save the data | ⭐ Beginner |
+| 3 | *TBD* | *Coming soon!* | |
 
 ## 🚀 Getting Started
 
